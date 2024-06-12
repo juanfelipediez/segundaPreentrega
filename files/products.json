@@ -1,0 +1,78 @@
+[
+	{
+		"id": 1,
+		"title": "Hamburger",
+		"description": "Cheese hamburguer",
+		"code": "hmn",
+		"price": "6800",
+		"status": true,
+		"stock": "5",
+		"category": "sandwiches",
+		"thumbnails": "./images/img1"
+	},
+	{
+		"id": 2,
+		"title": "Small french fries",
+		"description": "150g french fries",
+		"code": "sfr",
+		"price": "1500",
+		"status": true,
+		"stock": "150",
+		"category": "acompañamiento",
+		"thumbnails": "./images/img2"
+	},
+	{
+		"id": 3,
+		"title": "Chicken hamburger",
+		"description": "Chicken hamburger",
+		"code": "chhmn",
+		"price": "5900",
+		"status": true,
+		"stock": "200",
+		"category": "sandwiches",
+		"thumbnails": "./images/img3"
+	},
+	{
+		"id": 4,
+		"title": "Big french fries",
+		"description": "300g french fries",
+		"code": "bfr",
+		"price": "2300",
+		"status": true,
+		"stock": "49",
+		"category": "acompañamiento",
+		"thumbnails": "./images/img4"
+	},
+	{
+		"id": 5,
+		"title": "Coca Cola",
+		"description": "500cc coke",
+		"code": "coke",
+		"price": "1200",
+		"status": true,
+		"stock": "72",
+		"category": "drinks",
+		"thumbnails": "./images/img5"
+	},
+	{
+		"id": 6,
+		"title": "Sprite",
+		"description": "500cc Sprite",
+		"code": "spt",
+		"price": "1200",
+		"status": true,
+		"stock": "120",
+		"category": "drinks",
+		"thumbnails": "./images/img6"
+	},
+	{
+		"id": 7,
+		"title": "Onion rings",
+		"description": "dozen of onion rings",
+		"code": "or",
+		"price": "1800",
+		"status": true,
+		"stock": "23",
+		"category": "acompañamiento"
+	}
+]
